@@ -1,0 +1,98 @@
+{
+    "kommo-o": {
+        "height": 16,
+        "weight": 782
+    },
+    "pidgey": {
+        "height": 3,
+        "weight": 18
+    },
+    "zygarde-10": {
+        "height": 12,
+        "weight": 335
+    },
+    "castform": {
+        "height": 3,
+        "weight": 8
+    },
+    "thundurus-therian": {
+        "height": 30,
+        "weight": 610
+    },
+    "klefki": {
+        "height": 2,
+        "weight": 30
+    },
+    "wishiwashi-solo": {
+        "height": 2,
+        "weight": 3
+    },
+    "wo-chien": {
+        "height": 15,
+        "weight": 742
+    },
+    "ogerpon-wellspring-mask": {
+        "height": 12,
+        "weight": 398
+    },
+    "kakuna": {
+        "height": 6,
+        "weight": 100
+    },
+    "magnezone": {
+        "height": 12,
+        "weight": 1800
+    },
+    "riolu": {
+        "height": 7,
+        "weight": 202
+    },
+    "goodra-hisui": {
+        "height": 17,
+        "weight": 3341
+    },
+    "cryogonal": {
+        "height": 11,
+        "weight": 1480
+    },
+    "yveltal": {
+        "height": 58,
+        "weight": 2030
+    },
+    "comfey": {
+        "height": 1,
+        "weight": 3
+    },
+    "zekrom": {
+        "height": 29,
+        "weight": 3450
+    },
+    "meowscarada": {
+        "height": 15,
+        "weight": 312
+    },
+    "ledian": {
+        "height": 14,
+        "weight": 356
+    },
+    "toedscool": {
+        "height": 9,
+        "weight": 330
+    },
+    "natu": {
+        "height": 2,
+        "weight": 20
+    },
+    "cobalion": {
+        "height": 21,
+        "weight": 2500
+    },
+    "litwick": {
+        "height": 3,
+        "weight": 31
+    },
+    "bidoof": {
+        "height": 5,
+        "weight": 200
+    }
+}
